@@ -1,7 +1,6 @@
 # ***Programming With Python***
 
-***<h1>Overview</h1>*** 
-
+***<h2>Overview</h2>*** 
 
 ***1. Introduction to Python***
 
@@ -13,7 +12,7 @@
 
 ***5. Loops-Control Flow***
 
-***6. Strings and Its Methods***
+***6. Strings and It's Methods***
 
 ***7. Formatted Printing***
 
@@ -48,12 +47,15 @@
 ***22. Tkinter Module***
 
 ***23. Numpy Module***
+<hr>
+
 
 ## Introduction to Python Programming Language
 
-Programming is the process of giving a computer a set of instructions to follow in order to perform a task. These instructions are written using a language that the computer can understand, such as Python, JavaScript, or Java.
+Programming is the process of giving a computer a **set of instructions** to follow in order to perform a task. These instructions are written using a programming language that the computer can understand, such as **Python**, **JavaScript**, or **Java**
 
 ### Types of Programming Languages
+
 - **Low-Level Language**
     - Machine Language
     - Assembly Language
@@ -64,7 +66,10 @@ Programming is the process of giving a computer a set of instructions to follow 
     - Scripting
 
 
-Python is high-level programming language. It was created by Guido van Rossum, and released in 1991.It is used for:
+**Python is a High-Level Programming Language. It was created by Guido van Rossum, and released in 1991.**
+
+
+## Use of Python Programming Language
 
 - **Web Development** (Django, Flask)
 
@@ -113,4 +118,15 @@ Python is high-level programming language. It was created by Guido van Rossum, a
 - **API Development** (FastAPI, Flask)
 
 - **Hardware Interface & Robotics** (RPi.GPIO, PySerial)
+
+<hr>
+
+**High-Level Languages are**
+
+- Compiler Based
+- Interpreter Based
+- Hybrid
+
+**Python is Hybrid**
+<hr>
 
